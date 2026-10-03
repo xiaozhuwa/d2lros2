@@ -1,0 +1,5 @@
+# 请求：要移动的距离
+float32 distance
+---
+# 响应：移动结束后的位置
+float32 pose
